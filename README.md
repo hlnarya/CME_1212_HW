@@ -1,6 +1,6 @@
 # CME_1212_HW
 
-CME1212 Algorithms and Programming II
+
 Homework 1
 Write a Java program for a simple version of the “Wheel of Fortune” game. 
 keep in mind that the official “Wheel of Fortune” rules and instructions are different depending on the game version you will implement.
